@@ -1,0 +1,5 @@
+1,VSmart,John Smiths,Hồ Chí Minh City,0852508843,Việt Nam,NhapHangVSmart.txt
+2,Iphone,Steve Jobs,California,0852508843,US,NhapHangIphone.txt
+3,Samsung,Lee Min Hoo,Seoul,0963913948,Korea,NhapHangSamsung.txt
+4,Oppo,Lý Tiểu Long,Đài Loan,0963913948,China,NhapHangOppo.txt
+5,Xiaomi,Liu Tai Yang,Hàn Châu Trung Quốc,0366780221,China,NhapHangXiaomi.txt

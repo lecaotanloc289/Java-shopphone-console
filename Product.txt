@@ -1,0 +1,15 @@
+280, Xiaomi Redmi Note 11S, Xiaomi,4,5200.0, China
+112, Iphone 11 Pro 128GB, Iphone,30,14000.0, US
+228, Samsung Galaxy S21 5G, Samsung,2,3000.0, Korea
+896, VSmart Vietnam 102 5G, VSmart,8,4500.0, Viet Nam
+100, Iphone Xs 265GB, Iphone,15,8000.0,US
+101, Iphone XR 128GB, Iphone,10,10000.0,US
+111, Iphone 11 128GB, Iphone,10,12000.0,US
+113, Iphone 11 ProMax 256GB, Iphone,10,15000.0,US
+114, Iphone 12 mini 128Gb, Iphone,10,12000.0, US
+115, Iphone 12 128Gb, Iphone,10,15000.0, US
+116, Iphone 13 128Gb, Iphone,10,18000.0, US
+117, Iphone 13 Pro 128Gb, Iphone,10,20000.0, US
+118, Iphone 14 256Gb, Iphone,10,26000.0, US
+119, Iphone 14 Max 128Gb, Iphone,10,25000.0, US
+120, Iphone 14 Plus 128Gb,I phone,10,28000.0, US

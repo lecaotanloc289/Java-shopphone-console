@@ -1,0 +1,7 @@
+289, Xiaomi 12T Pro 5G,Xiaomi,10,15000,China
+290, Xiaomi 12 ,Xiaomi,10,14000,China
+291, Xiaomi 11T Pro 5G,Xiaomi,10,12000,China
+292, Xiaomi 12T,Xiaomi,10,10000,China
+293, Xiaomi 11T,Xiaomi ,10,9000,China
+294, Xiaomi 11 Lite 5G NE,Xiaomi,10,6000,China
+295, Xiaomi Redmi Note 11 Pro,Xiaomi,10,6000,China

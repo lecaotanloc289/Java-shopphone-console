@@ -1,0 +1,8 @@
+223, Samsung Galaxy Z Flip4 5G, Samsung,10,25000,Korea
+224, Samsung Galaxy S22 Utral 5G, Samsung,10,28000,korea
+225, Samsung Galaxy Z Fold 4 5G, Samsung,10,30000,Korea
+226, Samsung Galaxy Z Fold 3 5G, Samsung,10,28000,Korea
+227, Samsung Galaxy S22+ 5G, Samsung,10,20000, Korea
+228, Samsung Galaxy S21 5G, Samsung,10,15000, Korea
+229, Samsung Galaxy M53, Samsung,10,10000, Korea
+230, Samsung Galaxy A73 5G, Samsung,10,10000,Korea

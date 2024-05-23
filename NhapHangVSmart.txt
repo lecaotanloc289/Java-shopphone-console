@@ -1,0 +1,4 @@
+280, Xiaomi Redmi Note 11S, Xiaomi,3,5200, China
+112, Iphone 11 Pro 128GB, Iphone,5,11000, US
+228, Samsung Galaxy S21 5G, Samsung,1,3000, Korea
+896, VSmart Vietnam 102 5G, VSmart,4,4500, Viet Nam

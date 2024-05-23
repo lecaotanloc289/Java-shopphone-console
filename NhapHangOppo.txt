@@ -1,0 +1,10 @@
+121, Oppo Reno8, Oppo,10,15000, China
+122, Oppo A55, Oppo,10,5000, China
+123, Oppo Find X5 Pro 5G, Oppo,10,30000, China
+124, Oppo Reno7 , Oppo,10,10000, China
+125, Oppo A96 , Oppo,10,5000, China
+126, Oppo A77s, Oppo,10,5000, China
+127, Oppo A95, Oppo,10,5000, China
+128, Oppo A76, Oppo,10,5000, China
+129, Oppo A17, Oppo,10,4000, China
+130, Oppo A9, Oppo,10,2000, China

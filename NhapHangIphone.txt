@@ -1,0 +1,12 @@
+100, Iphone Xs 265GB, Iphone,15,8000,US
+101, Iphone XR 128GB, Iphone,10,10000,US
+111, Iphone 11 128GB, Iphone,10,12000,US
+112, Iphone 11 Pro 128GB, Iphone,10,14000, US
+113, Iphone 11 ProMax 256GB, Iphone,10,15000,US
+114, Iphone 12 mini 128Gb, Iphone,10,12000, US
+115, Iphone 12 128Gb, Iphone,10,15000, US
+116, Iphone 13 128Gb, Iphone,10,18000, US
+117, Iphone 13 Pro 128Gb, Iphone,10,20000, US
+118, Iphone 14 256Gb, Iphone,10,26000, US
+119, Iphone 14 Max 128Gb, Iphone,10,25000, US
+120, Iphone 14 Plus 128Gb,I phone,10,28000, US

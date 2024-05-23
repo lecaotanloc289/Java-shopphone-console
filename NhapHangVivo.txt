@@ -1,0 +1,9 @@
+234, Vivo Y15, Vivo,10,2000,China
+235, Vivo X80, Vivo,10,20000,China
+236, Vivo V25 Pro 5G,Vivo,10,12000, China
+237,Vivo V25, Vivo,10,10000, China
+238, Vivo T1, Vivo,10,6000, China
+239, Vivo V23, Vivo,10,6000,China
+240, Vivo  Y53s, Vivo,10,5000,China
+241, Vivo Y55, Vivo,10,5000, China
+242, Vivo Y33s, Vivo,10,5000,China
